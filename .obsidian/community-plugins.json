@@ -5,7 +5,6 @@
   "obsidian-local-rest-api",
   "obsidian-markdown-formatting-assistant-plugin",
   "mathlinks",
-  "smart-connections",
   "obsidian-code-block-enhancer",
   "obsidian-excalidraw-plugin",
   "obsidian-plugin-toc",
@@ -38,5 +37,6 @@
   "vault-manager-status",
   "callout-manager-managed",
   "gc-explorer-indicators",
-  "callout-outline"
+  "callout-outline",
+  "obsidian-go-to-line"
 ]
