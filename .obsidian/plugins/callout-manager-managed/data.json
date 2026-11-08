@@ -34,7 +34,10 @@
       "convention",
       "rule",
       "guideline",
-      "procedure"
+      "procedure",
+      "Output",
+      "caption",
+      "table"
     ],
     "settings": {
       "expansion": [
@@ -392,7 +395,6 @@
     }
   },
   "calloutDetection": {
-    "obsidianFallbackForced": false,
     "obsidian": true,
     "theme": true,
     "snippet": true
